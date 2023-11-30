@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+.container {width: 200px;  padding: 10px 20px;  border: 1px solid pink;    margin: 2px;  box-sizing: border-box;}
